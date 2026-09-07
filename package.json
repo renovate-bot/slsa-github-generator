@@ -13,6 +13,6 @@
     "markdownlint-cli": "0.44.0",
     "prettier": "3.5.1",
     "renovate": "39.174.3",
-    "sigstore": "2.3.1"
+    "sigstore": "4.1.1"
   }
 }
