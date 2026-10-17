@@ -173,7 +173,7 @@ require (
 	github.com/vbatts/tar-split v0.11.5 // indirect
 	github.com/xanzy/go-gitlab v0.109.0 // indirect
 	github.com/zeebo/errs v1.3.0 // indirect
-	go.mongodb.org/mongo-driver v1.14.0 // indirect
+	go.mongodb.org/mongo-driver v1.17.7 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.54.0 // indirect
 	go.opentelemetry.io/otel v1.29.0 // indirect
