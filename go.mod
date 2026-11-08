@@ -1,6 +1,6 @@
 module github.com/slsa-framework/slsa-github-generator
 
-go 1.23.1
+go 1.24
 
 require (
 	github.com/coreos/go-oidc/v3 v3.11.0
@@ -126,7 +126,7 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.17.9 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/letsencrypt/boulder v0.0.0-20240620165639-de9c06129bec // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
